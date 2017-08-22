@@ -21,7 +21,7 @@ After deleting the storyboard, from AppDelegate create window and initialize a r
 
 In view controller, view is created by the use of frame which is more useful than using storyboard for creating different screen sizes.
 
-ScreenShot of 5s simulator also this code supports in all iPhone screen size:
+ScreenShot of 5s simulator also this code supports in all iPhone screen sizes:
 
 
 ![simulator screen shot aug 21 2017 10 46 48 pm](https://user-images.githubusercontent.com/31231485/29548086-ba557100-86c3-11e7-8b27-8089ee77ef23.png)
